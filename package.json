@@ -1,0 +1,26 @@
+{
+  "name": "@local/hydro-batch-reset-password",
+  "version": "1.0.2",
+  "description": "Batch reset normal user passwords for Hydro OJ with sudo protection.",
+  "main": "index.ts",
+  "author": "chen hao",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "hydrooj": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pluto1024-h/Hydro-batch-reset-password.git"
+  },
+  "keywords": [
+    "hydrooj",
+    "hydro",
+    "addon",
+    "plugin",
+    "password-reset"
+  ],
+  "bugs": {
+    "url": "https://github.com/Pluto1024-h/Hydro-batch-reset-password/issues"
+  },
+  "homepage": "https://github.com/Pluto1024-h/Hydro-batch-reset-password#readme"
+}
