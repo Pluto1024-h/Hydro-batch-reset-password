@@ -34,13 +34,13 @@ hydro-batch-reset-password/
 将本插件目录上传到服务器，例如：
 
 ```bash
-/root/hydro-addons/hydro-batch-reset-password
+/root/.hydro/addons/hydro-batch-reset-password
 ```
 
 确认该目录下能直接看到 `package.json`，然后执行：
 
 ```bash
-hydrooj addon add /root/hydro-addons/hydro-batch-reset-password
+hydrooj addon add /root/.hydro/addons/hydro-batch-reset-password
 pm2 restart hydrooj
 ```
 
